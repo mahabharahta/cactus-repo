@@ -13,8 +13,8 @@
 
 Идея проекта:
 
-https://vk.com/ifedoroff_public
+  https://vk.com/ifedoroff_public
 
 Делегат:
 
-Плугатар Денис Викторович, denisplugatar@gmail.com
+  Плугатар Денис Викторович, denisplugatar@gmail.com
